@@ -2,7 +2,7 @@ let http = require("http");
 let fs = require("fs");
 let url = require("url"); // url 이라는 모듈을 사용하겠다.
 let qs = require("querystring");
-//객체화
+//객체화 dd
 //d
 let template = {
   html: function (title, list, body, controll) {
